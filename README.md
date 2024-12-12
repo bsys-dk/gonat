@@ -1,2 +1,0 @@
-# gonat
-A golang application
