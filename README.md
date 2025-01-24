@@ -1,6 +1,6 @@
 # Go'Nat
 
-A very small golang project completely TDD based 
+A tiny golang project with completely TDD based development 
 
 ## What to do
 | Steps                             | Actions |   
