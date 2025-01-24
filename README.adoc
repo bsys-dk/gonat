@@ -3,5 +3,12 @@
 A small go project completely TDD based
 
 [square]
+
 * Golang
+
 * TDD
+
+```golang
+# The best code
+code to write
+```
