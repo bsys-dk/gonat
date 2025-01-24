@@ -12,6 +12,6 @@ A very small golang project completely TDD based
 
 ### Working in GoLand
 
-The [GoLand](https://jetbrain.com) application is a Jetbrain app 
+The [GoLand](https://www.jetbrains.com/go/) application is a [Jetbrains](https://www.jetbrains.com) app 
 
 
