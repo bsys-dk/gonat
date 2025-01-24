@@ -9,3 +9,9 @@ A tiny golang project with completely TDD based development
 | Write code to support the test    | code    |
 | Refact or expand the test         | refact  |
 
+
+### Working in GoLand
+
+The [GoLand](https://www.jetbrains.com/go/) application is a [Jetbrains](https://www.jetbrains.com) app 
+
+
