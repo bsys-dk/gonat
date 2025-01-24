@@ -1,6 +1,6 @@
-= README 
-project details
-:icons: font
+= Go'Nat
+
+A small go project completely TDD based
 
 [square]
 * Golang
